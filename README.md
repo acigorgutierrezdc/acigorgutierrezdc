@@ -1,3 +1,4 @@
+- Its my new Repo with no POG's/Bad codding and old projects.
 - 👋 Hi, I’m @acigorgutierrezdc: Igor Gutierrez, utilizo este Git para estudo constante dos projetos e cursos que tenho feito.
 - 👀 I’m interested in: Aplicações Microsoft, principalmente novas tecnologias.
 - 🌱 I’m currently learning: Certificações em cursos online como "desenvolvedor.io"
