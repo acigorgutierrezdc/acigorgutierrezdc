@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: "Eu mesmo."
 - 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
 
-![](https://komarev.com/ghpvc/?acigorgutierrezdc)
+
 
 
 
@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+![](https://komarev.com/ghpvc/?acigorgutierrezdc)
+![](https://hit.yhype.me/github/profile?user_id=acigorgutierrezdc)
