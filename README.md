@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on: "Eu mesmo."
 - 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
 
+![](https://komarev.com/ghpvc/?acigorgutierrezdc)
+
+
+
 <!---
 acigorgutierrezdc/acigorgutierrezdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![](https://komarev.com/ghpvc/?acigorgutierrezdc)
