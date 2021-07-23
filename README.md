@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: "Eu mesmo."
 - 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
 
-![](https://komarev.com/ghpvc/?acigorgutierrezdc)
+![](https://komarev.com/ghpvc/?acigorgutierrezdc&color=greenc)
 
 
 
