@@ -10,6 +10,8 @@ Hey, this repo are using:
 GitHub analytics for developers
 https://yhype.me
 
+But, for now, it's not a Pro repo, than, relax.
+
 
 
 
