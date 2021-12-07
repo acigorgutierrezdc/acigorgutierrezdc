@@ -5,14 +5,6 @@
 - 💞️ I’m looking to collaborate on: "Eu mesmo."
 - 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
 
-Hey, this repo are using:
-
-Ÿ HŸPE
-GitHub analytics for developers
-https://yhype.me
-
-But, at now, it's not a Pro repo, relax.
-
 
 
 
