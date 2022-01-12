@@ -20,3 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 Assim diz o Senhor, o teu Redentor, o Santo de Israel: Eu sou o Senhor teu Deus, que te ensina o que é útil, e te guia pelo caminho em que deves andar.
 Isaías 48:17
+
+
+![](https://www.youtube.com/watch?v=jYUe-yY40xM)
