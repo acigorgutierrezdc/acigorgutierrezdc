@@ -22,6 +22,6 @@ Assim diz o Senhor, o teu Redentor, o Santo de Israel: Eu sou o Senhor teu Deus,
 Isaías 48:17
 
 
-https://www.youtube.com/watch?v=jYUe-yY40xM
+https://www.youtube.com/watch?v=jYUe-yY40xM (8 + Jesus)
 
 Visitors: ![](https://hit.yhype.me/github/profile?user_id=86737673)
