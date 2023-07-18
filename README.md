@@ -2,6 +2,7 @@
 - 👀 I’m interested in: Aplicações Microsoft, principalmente novas tecnologias.
 - 💞️ I’m looking to collaborate on: "Eu mesmo."
 - 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
+- Ku: Coisa-Feia: https://www.youtube.com/watch?v=_E4wvM9Zotw
 
 
 
