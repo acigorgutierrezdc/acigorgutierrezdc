@@ -1,6 +1,5 @@
 
 - 👀 I’m interested in: Aplicações Microsoft, principalmente novas tecnologias.
-- 💞️ I’m looking to collaborate on: "Eu mesmo."
 - 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
 
 
@@ -21,5 +20,3 @@ Isaías 48:17
 
 
 https://www.youtube.com/watch?v=jYUe-yY40xM (8 + Jesus)
-
-Visitors: ![](https://hit.yhype.me/github/profile?user_id=86737673)
