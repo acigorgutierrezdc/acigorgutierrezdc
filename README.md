@@ -1,6 +1,16 @@
 
 - 👀 I’m interested in: Aplicações Microsoft, principalmente novas tecnologias.
-- 📫 How to reach me: ac.igor.gutierrez.dc@gmail.com
+
+
+
+
+//Donation's are welcome.
+
+//BTC: 172WwxMMHhcSi3NTXBRVxAm6BxZLeVqyug
+
+//GRC: S3FoyYGReUZ39HXmkRB9FSVy5NDL4Di83H
+
+//Email: ac.igor.gutierrez.dc@gmail.com
 
 
 
